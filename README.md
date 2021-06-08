@@ -33,8 +33,8 @@
                      📈 Para ver o CAGED Minimo, clique <a href="https://www.dropbox.com/s/738p3ixuyj2b0uo/CAGED%20Minimo.txt?dl=0">aqui</a>.
               </p>              
   <p align="justify">
-                     📈 Para ver a FINAL CAGED, clique <a href="https://www.dropbox.com/s/nqjdr1kz6r5mx97/FINAL%20CAGED.txt?dl=0>aqui</a>.
-              </p>
+                     📈 Para ver a FINAL CAGED, clique <a href="https://www.dropbox.com/s/nqjdr1kz6r5mx97/FINAL%20CAGED.txt?dl=0">aqui</a>.
+		</p>
  --------------------------------------------------------------------------------------------------------------------
  
 ## 	🏬 Nossos Parceiros
