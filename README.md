@@ -35,6 +35,7 @@
   <p align="justify">
                      📈 Para ver a FINAL CAGED, clique <a href="https://www.dropbox.com/s/nqjdr1kz6r5mx97/FINAL%20CAGED.txt?dl=0">aqui</a>.
 		</p>
+		
  --------------------------------------------------------------------------------------------------------------------
  
 ## 	🏬 Nossos Parceiros
