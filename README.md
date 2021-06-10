@@ -19,6 +19,7 @@
  
  ## Nomes Completos: 
  
+ - Ana Beatriz Silva de Araujo Leite
  - Anna Carolina de Oliveira Vale Mendes
  - Camila de Fátima Ferreira Pacheco
  - Rafael dos Santos Pereira
