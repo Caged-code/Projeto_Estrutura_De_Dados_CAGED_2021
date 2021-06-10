@@ -14,8 +14,8 @@
  --------------------------------------------------------------------------------------------------------------------
 ## 	:handshake: Equipe
 
-[<img src="https://github.com/developersapi/LMSApp/blob/main/anna.jpeg" width=140 > <br> <sub> @Anna Carolina </sub>](https://github.com/AnnaCMendes)| [<img src="https://github.com/developersapi/LMSApp/blob/main/pedrofs.jpg" width=140 > <br> <sub> @Pedro  </sub>](https://github.com/PedroSilva201) | [<img  src="https://avatars.githubusercontent.com/u/67149165?v=4" width=170 > <br> <sub> @Rafael </sub>](https://github.com/Rafael-BD) | [<img src="https://github.com/developersapi/LMSApp/blob/main/rafael.jpg" width=140 > <br> <sub> @Rafael </sub>](https://github.com/rafaeldossper)|[<img src="https://avatars.githubusercontent.com/u/64873345?v=4" width=170 > <br> <sub> @Camila </sub>](https://github.com/camilaffpacheco)|
- | :---: |:---:|:---:|:---:|:---:|
+[<img src="https://github.com/developersapi/LMSApp/blob/main/anna.jpeg" width=140 > <br> <sub> @Anna Carolina </sub>](https://github.com/AnnaCMendes)| [<img src="https://github.com/developersapi/LMSApp/blob/main/pedrofs.jpg" width=140 > <br> <sub> @Pedro  </sub>](https://github.com/PedroSilva201) | [<img  src="https://avatars.githubusercontent.com/u/67149165?v=4" width=170 > <br> <sub> @Rafael </sub>](https://github.com/Rafael-BD) | [<img src="https://github.com/developersapi/LMSApp/blob/main/rafael.jpg" width=140 > <br> <sub> @Rafael </sub>](https://github.com/rafaeldossper)|[<img src="https://avatars.githubusercontent.com/u/64873345?v=4" width=170 > <br> <sub> @Camila </sub>](https://github.com/camilaffpacheco)|[<img src="https://avatars.githubusercontent.com/u/13748424?v=4" width=170 > <br> <sub> @Ana </sub>](https://github.com/analeite)|
+ | :---: |:---:|:---:|:---:|:---:|:---:|
  
  ## Nomes Completos: 
  
